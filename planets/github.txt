@@ -1,7 +1,0 @@
-1. pwd
-2. ls (while inside ~/music/) shows all of the directories/files except hidden ones (ls -a) shows hidden
-3. nano patterns.txt
-4. cat patterns.txt
-5. diff patterns.txt symmetry.txt
-6. mv patterns.txt ~/math/calculus/
-7. rm ~/math/geometry/triangle.txt

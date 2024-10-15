@@ -1,0 +1,22 @@
+pwd
+ls shows all directories/files, ls -a shows hidden ones
+nano patterns.txt
+cat patterns.txt
+diff patterns.txt symmetry.txt
+mv patterns.txt ~/math/calculus/
+rm ~/math/geometry/triangle.txt
+cd ~/music/
+git init
+git remote add "url from github" and then call git remote -v to check
+cp ~/music/symmetry.txt ~/math/
+git status
+git add ~/math/symmetry.txt and then git add . 
+yes, git reset ~/math/symmetry.txt
+git commit -m "commiting staged files to local repo"
+git push origin main(or whatever branch youre working in), push in the branch youre working in
+git checkout applied_math
+git add . and then git commit -m and then git push origin applied_math, if you dont commit the changed, they won't save and you cant push them to your remote repo
+git branch and the branch you're currently in will highlight in green
+git checkout main/master
+git checkout main, git merge applied_math, git commit -m "merged applied_math to main"
+problem 23 will be uplaoded as a seprate photo!
