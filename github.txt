@@ -14,6 +14,7 @@ git add ~/math/symmetry.txt and then git add .
 yes, git reset ~/math/symmetry.txt
 git commit -m "commiting staged files to local repo"
 git push origin main(or whatever branch youre working in), push in the branch youre working in
+git branch applied_math
 git checkout applied_math
 git add . and then git commit -m and then git push origin applied_math, if you dont commit the changed, they won't save and you cant push them to your remote repo
 git branch and the branch you're currently in will highlight in green
